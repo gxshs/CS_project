@@ -1,0 +1,10 @@
+C:\Users\nasty\source\repos\gxshs\CS_app\CS_app\CS_app\bin\Debug\CS_app.exe.config
+C:\Users\nasty\source\repos\gxshs\CS_app\CS_app\CS_app\bin\Debug\CS_app.exe
+C:\Users\nasty\source\repos\gxshs\CS_app\CS_app\CS_app\bin\Debug\CS_app.pdb
+C:\Users\nasty\source\repos\gxshs\CS_app\CS_app\CS_app\obj\Debug\CS_app.csproj.AssemblyReference.cache
+C:\Users\nasty\source\repos\gxshs\CS_app\CS_app\CS_app\obj\Debug\CS_app.Form1.resources
+C:\Users\nasty\source\repos\gxshs\CS_app\CS_app\CS_app\obj\Debug\CS_app.Properties.Resources.resources
+C:\Users\nasty\source\repos\gxshs\CS_app\CS_app\CS_app\obj\Debug\CS_app.csproj.GenerateResource.cache
+C:\Users\nasty\source\repos\gxshs\CS_app\CS_app\CS_app\obj\Debug\CS_app.csproj.CoreCompileInputs.cache
+C:\Users\nasty\source\repos\gxshs\CS_app\CS_app\CS_app\obj\Debug\CS_app.exe
+C:\Users\nasty\source\repos\gxshs\CS_app\CS_app\CS_app\obj\Debug\CS_app.pdb
